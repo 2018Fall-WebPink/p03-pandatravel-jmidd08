@@ -1,0 +1,22 @@
+/*
+* Jasmine Middaugh
+* 06 November 2018
+* Panda travel Agency and Description
+*/
+
+/* The universal selector */
+
+* { 
+
+}
+
+/* Body attributes here */
+
+body {
+
+    background-color:peachpuff;
+}
+    #woods {width: 700px; height: 400px;}
+    #ghosthouse {width: 400px; height: 300px;}
+    #mulliner {width: 200px; height: 300px;}
+    #njdevil {width: 500px; height: 300px;}
